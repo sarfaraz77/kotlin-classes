@@ -8,7 +8,7 @@ It includes:
 
 - Lambdas & function types
 
-- 
+- Practice Code
 
 Each folder represents a topic, with simple .kt files that show how the concept works in practice.
 
